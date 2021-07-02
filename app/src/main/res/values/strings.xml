@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GithubSearchUsers</string>
+    <string name="tv_title_repositories">Repositories</string>
+</resources>
